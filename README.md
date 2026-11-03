@@ -1,4 +1,4 @@
-# Arduino UNO Potentiometer Reading Using Serial Monitor
+# Arduino UNO LDR Sensor Reading Using Serial Monitor
 
 ## **📌 Project Overview**
 
