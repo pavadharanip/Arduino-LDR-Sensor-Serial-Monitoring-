@@ -68,6 +68,10 @@ The Serial Monitor displays values ranging from **0 to 1023**.
 
 <Note>Actual readings may vary slightly depending on the potentiometer position and supply voltage.</Note>
 
+![LDR Sensor Output](ldr%20sensor.jpeg)
+
+[View Arduino Code](ldrsensor.ino)
+
 ## **📚 Concepts Learned**
 
 - Arduino UNO programming
